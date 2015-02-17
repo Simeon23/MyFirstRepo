@@ -1,24 +1,14 @@
-
-Hello
-Tuka ima tuka nqma
-
-
-
-
-New
-Start
-End
-Hello
-Changed content
-Mlado qrence
-
-
-New fixes
-
-
-
-something better
-alo
-balo
-butalo
-end of sb
+1. Hello
+2. Tuka ima tuka nqma
+3. New
+4. Start
+5. End
+6. Hello
+7. Changed content
+8. Mlado qrence
+9. New fixes
+10. something better
+11. alo
+12. balo
+13. butalo
+14. end of sb
