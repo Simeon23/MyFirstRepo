@@ -22,9 +22,7 @@
 
 
 22. First git test
-
 23. Trying something
-
 24. Trying to merge
 
 HOP TROP
